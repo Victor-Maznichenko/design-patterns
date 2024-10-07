@@ -3,7 +3,7 @@
 Паттерн - это повторяющийся шаблон или решение, которое помогает решить конкретную проблему в программировании. Это "лучшая практика" или "опытный совет" от опытных разработчиков.
 
 <img src="./_assets/dance.gif" width="350" height="300" alt="alt text">
-<img src="./_assets/dance2.gif" width="300" height="300" alt="alt text">
+<img src="./_assets/dance2.gif" width="200" height="300" alt="alt text">
 
 ## Зачем знать паттерны?
 
